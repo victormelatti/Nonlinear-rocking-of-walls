@@ -1,0 +1,7 @@
+This model allows the computation of the non linear rocking behaviour of walls under seismic action.
+
+The "constants" file allows the implementation of the numerical constants of the problem
+
+The "functions" file contains the functions to solve the equations of motion
+
+The "run" file runs imports the constants and functions to output the wall's motion
